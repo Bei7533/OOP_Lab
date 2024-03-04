@@ -1,0 +1,10 @@
+8
+1
+go left
+go up
+go left
+go left
+go right
+go right
+go down
+go right

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Serialization.dir/src/main.cpp.o CMakeFiles/Serialization.dir/src/Binary.cpp.o CMakeFiles/Serialization.dir/src/XML.cpp.o CMakeFiles/Serialization.dir/lib/tinyxml2.cpp.o -o Serialization 

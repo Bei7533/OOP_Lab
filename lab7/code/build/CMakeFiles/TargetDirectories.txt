@@ -1,0 +1,3 @@
+/mnt/c/Users/BEIII/Desktop/Documen4.0/OOP/lab/lab7/lab7/code/build/CMakeFiles/Serialization.dir
+/mnt/c/Users/BEIII/Desktop/Documen4.0/OOP/lab/lab7/lab7/code/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/BEIII/Desktop/Documen4.0/OOP/lab/lab7/lab7/code/build/CMakeFiles/rebuild_cache.dir

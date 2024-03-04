@@ -1,0 +1,52 @@
+K.Weng
+math 5
+cs 5
+english 5
+over
+T.Dixon
+cs 4
+math 3
+chinese 2
+over
+V.Chu   
+chinese 3
+cs 4
+physics 5
+over
+L.Tson
+cs 4
+physics  3 
+english 4
+over
+L.Lee 
+chinese 3
+english 4
+cs 3
+math 5
+over
+I.Young
+math 4
+cs 2
+physics 5
+over
+K.Hiro
+chinese 4
+physics 1
+over
+G.Ping
+math 4
+cs 4
+english 4
+over
+H.Gu
+physics 2
+cs 3
+chinese 4
+math 5
+over
+J.Jon
+math 5
+cs 4
+english 2
+over
+end

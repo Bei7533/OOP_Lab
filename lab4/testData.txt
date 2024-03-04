@@ -1,0 +1,31 @@
+pdadd
+2023/3/5
+Today I had a meal of sauerkraut fish.
+It was delicious.
+.
+pdadd
+2022/2/1
+Ten hours of sleep today.
+.
+pdadd    
+2023/1/1
+I hate study.
+I really wanted to go traveling, 
+to the beach or to the prairie.
+.
+pdadd    
+2023/4/16
+Finished writing the OOP assignment today.
+.
+pdlist [2023/2/1, 2023/6/5]
+pdshow 2023/1/1
+pdshow 2021/1/1
+pdremove 2023/3/5
+pdlist
+pdadd    
+2025/5/30
+Have a nice day!
+.
+pdremove 2021/12/9
+pdlist
+End input
